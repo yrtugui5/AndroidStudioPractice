@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unisanta</string>
+    <string name="campo_nome">Nome</string>
+    <string name="campo_wpp">WhatsApp</string>
+    <string name="campo_link">URL da Imagem</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="ver_contatos">Ver Contatos Cadastrados</string>
+    <string name="btn_ligar">Ligar</string>
+    <string name="btn_wpp">WhatsApp</string>
+    <string name="text_voltar">Voltar</string>
+    <string name="teste">teste</string>
+</resources>
